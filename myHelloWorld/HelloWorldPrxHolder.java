@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package com.maycur.didi;
+package myHelloWorld;
 
 public final class HelloWorldPrxHolder
 {

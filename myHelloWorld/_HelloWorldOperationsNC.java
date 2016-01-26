@@ -18,9 +18,9 @@
 // </auto-generated>
 //
 
-package com.maycur.didi;
+package myHelloWorld;
 
-public interface _HelloWorldOperations
+public interface _HelloWorldOperationsNC
 {
-    void say(String s, Ice.Current __current);
+    void say(String s);
 }

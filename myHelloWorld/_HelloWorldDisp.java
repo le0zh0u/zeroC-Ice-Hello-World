@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package com.maycur.didi;
+package myHelloWorld;
 
 public abstract class _HelloWorldDisp extends Ice.ObjectImpl implements HelloWorld
 {
@@ -32,7 +32,7 @@ public abstract class _HelloWorldDisp extends Ice.ObjectImpl implements HelloWor
     public static final String[] __ids =
     {
         "::Ice::Object",
-        "::com::maycur::didi::HelloWorld"
+        "::myHelloWorld::HelloWorld"
     };
 
     public boolean ice_isA(String s)

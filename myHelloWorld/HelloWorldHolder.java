@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package com.maycur.didi;
+package myHelloWorld;
 
 public final class HelloWorldHolder extends Ice.ObjectHolderBase<HelloWorld>
 {

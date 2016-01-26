@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package com.maycur.didi;
+package myHelloWorld;
 
 public interface HelloWorldPrx extends Ice.ObjectPrx
 {

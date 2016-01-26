@@ -1,10 +1,6 @@
-module com{
-module maycur{
-module didi{
+module myHelloWorld{
 	interface HelloWorld{
         void say(string s);
     };
-    };
-	
 };
-};
+

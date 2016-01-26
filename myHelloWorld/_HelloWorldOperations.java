@@ -18,8 +18,9 @@
 // </auto-generated>
 //
 
-package com.maycur.didi;
+package myHelloWorld;
 
-public abstract class Callback_HelloWorld_say extends Ice.OnewayCallback
+public interface _HelloWorldOperations
 {
+    void say(String s, Ice.Current __current);
 }

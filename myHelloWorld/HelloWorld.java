@@ -18,12 +18,12 @@
 // </auto-generated>
 //
 
-package com.maycur.didi;
+package myHelloWorld;
 
 public interface HelloWorld extends Ice.Object,
                                     _HelloWorldOperations, _HelloWorldOperationsNC
 {
-    public static final String ice_staticId = "::com::maycur::didi::HelloWorld";
+    public static final String ice_staticId = "::myHelloWorld::HelloWorld";
 
-    public static final long serialVersionUID = 7312286149421447629L;
+    public static final long serialVersionUID = 7799179644739287177L;
 }
