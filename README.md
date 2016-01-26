@@ -16,8 +16,6 @@ module myHelloWorld{
 	interface HelloWorld{
         void say(string s);
     };
-    };
-	
 };
 ```
 
@@ -32,7 +30,8 @@ slice2java HelloWorld.ice
 It will add some java files.
 
 
-************
+***
 
 To be continue.
+
 Next will add client and server.
