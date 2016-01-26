@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package myHelloWorld;
+package com.myHelloWorld;
 
 public final class HelloWorldHolder extends Ice.ObjectHolderBase<HelloWorld>
 {

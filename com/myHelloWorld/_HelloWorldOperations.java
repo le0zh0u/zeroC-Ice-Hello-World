@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package myHelloWorld;
+package com.myHelloWorld;
 
 public interface _HelloWorldOperations
 {

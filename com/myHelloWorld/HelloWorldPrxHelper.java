@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package myHelloWorld;
+package com.myHelloWorld;
 
 public final class HelloWorldPrxHelper extends Ice.ObjectPrxHelperBase implements HelloWorldPrx
 {
@@ -176,7 +176,7 @@ public final class HelloWorldPrxHelper extends Ice.ObjectPrxHelperBase implement
     public static final String[] __ids =
     {
         "::Ice::Object",
-        "::myHelloWorld::HelloWorld"
+        "::com::myHelloWorld::HelloWorld"
     };
 
     public static String ice_staticId()

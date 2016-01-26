@@ -18,12 +18,8 @@
 // </auto-generated>
 //
 
-package myHelloWorld;
+package com.myHelloWorld;
 
-public interface HelloWorld extends Ice.Object,
-                                    _HelloWorldOperations, _HelloWorldOperationsNC
+public abstract class Callback_HelloWorld_say extends Ice.OnewayCallback
 {
-    public static final String ice_staticId = "::myHelloWorld::HelloWorld";
-
-    public static final long serialVersionUID = 7799179644739287177L;
 }
