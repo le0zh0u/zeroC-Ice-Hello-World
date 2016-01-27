@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package com.myHelloWorld;
+package com.example.myHelloWorld;
 
 public abstract class _HelloWorldDisp extends Ice.ObjectImpl implements HelloWorld
 {
@@ -32,7 +32,7 @@ public abstract class _HelloWorldDisp extends Ice.ObjectImpl implements HelloWor
     public static final String[] __ids =
     {
         "::Ice::Object",
-        "::com::myHelloWorld::HelloWorld"
+        "::com::example::myHelloWorld::HelloWorld"
     };
 
     public boolean ice_isA(String s)

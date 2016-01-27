@@ -18,37 +18,20 @@
 // </auto-generated>
 //
 
-package com.myHelloWorld;
+package com.example.myHelloWorld;
 
-public final class HelloWorldHolder extends Ice.ObjectHolderBase<HelloWorld>
+public final class HelloWorldPrxHolder
 {
     public
-    HelloWorldHolder()
+    HelloWorldPrxHolder()
     {
     }
 
     public
-    HelloWorldHolder(HelloWorld value)
+    HelloWorldPrxHolder(HelloWorldPrx value)
     {
         this.value = value;
     }
 
-    public void
-    patch(Ice.Object v)
-    {
-        if(v == null || v instanceof HelloWorld)
-        {
-            value = (HelloWorld)v;
-        }
-        else
-        {
-            IceInternal.Ex.throwUOE(type(), v);
-        }
-    }
-
-    public String
-    type()
-    {
-        return _HelloWorldDisp.ice_staticId();
-    }
+    public HelloWorldPrx value;
 }

@@ -18,7 +18,7 @@
 // </auto-generated>
 //
 
-package com.myHelloWorld;
+package com.example.myHelloWorld;
 
 public interface HelloWorldPrx extends Ice.ObjectPrx
 {

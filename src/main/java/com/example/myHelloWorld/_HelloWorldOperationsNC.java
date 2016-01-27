@@ -18,8 +18,9 @@
 // </auto-generated>
 //
 
-package com.myHelloWorld;
+package com.example.myHelloWorld;
 
-public abstract class Callback_HelloWorld_say extends Ice.OnewayCallback
+public interface _HelloWorldOperationsNC
 {
+    void say(String s);
 }

@@ -18,20 +18,8 @@
 // </auto-generated>
 //
 
-package com.myHelloWorld;
+package com.example.myHelloWorld;
 
-public final class HelloWorldPrxHolder
+public abstract class Callback_HelloWorld_say extends Ice.OnewayCallback
 {
-    public
-    HelloWorldPrxHolder()
-    {
-    }
-
-    public
-    HelloWorldPrxHolder(HelloWorldPrx value)
-    {
-        this.value = value;
-    }
-
-    public HelloWorldPrx value;
 }

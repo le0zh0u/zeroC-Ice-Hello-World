@@ -18,9 +18,12 @@
 // </auto-generated>
 //
 
-package com.myHelloWorld;
+package com.example.myHelloWorld;
 
-public interface _HelloWorldOperationsNC
+public interface HelloWorld extends Ice.Object,
+                                    _HelloWorldOperations, _HelloWorldOperationsNC
 {
-    void say(String s);
+    public static final String ice_staticId = "::com::example::myHelloWorld::HelloWorld";
+
+    public static final long serialVersionUID = -7004937117494176224L;
 }
