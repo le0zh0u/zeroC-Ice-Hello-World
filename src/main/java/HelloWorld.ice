@@ -1,4 +1,4 @@
-dule com{
+module com{
     module example{
         module myHelloWorld{
             interface HelloWorld{
