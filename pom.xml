@@ -25,11 +25,6 @@
 
     <repositories>
         <repository>
-            <id>s1</id>
-            <name>internal repo</name>
-            <url>http://s1.maycur.cc:5000/content/groups/public/</url>
-        </repository>
-        <repository>
             <id>ice</id>
             <name>ice repository</name>
             <url>http://repo.zeroc.com/nexus/content/repositories/releases</url>
